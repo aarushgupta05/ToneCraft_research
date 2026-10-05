@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ToneCraft_logo_github.png" alt="ToneCraft" width="700">
+  <img src="ToneCraft_logo_github.png" alt="ToneCraft" width="420">
 </p>
 
 <h1 align="center">ToneCraft Research</h1>
